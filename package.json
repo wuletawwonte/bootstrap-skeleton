@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wuletawwonte/bootstrap-skeleton/issues"
   },
-  "homepage": "https://github.com/wuletawwonte/bootstrap-skeleton#readme"
+  "homepage": "https://github.com/wuletawwonte/bootstrap-skeleton#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.2"
+  }
 }
