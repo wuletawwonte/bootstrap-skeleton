@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-skeleton",
+  "version": "1.0.0",
+  "description": "> Portfolio of Wuletaw Wonte, a full stack web developer based in Ethiopia. Built using Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuletawwonte/bootstrap-skeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuletawwonte/bootstrap-skeleton/issues"
+  },
+  "homepage": "https://github.com/wuletawwonte/bootstrap-skeleton#readme"
+}
